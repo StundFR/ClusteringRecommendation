@@ -12,3 +12,15 @@ kmeans/img/kmean_step_by_step_2.jpg
 kmeans/img/elbow_method.jpg
 Fuzzy-C-means/img/plot_uncertain_cluster.jpg
 GroupLens/img/compare_cluster_all_by_cluster.jpg
+CollaborativeFiltering/img/compare_4clusters.jpg
+CollaborativeFiltering/img/compare_10clusters.jpg
+CollaborativeFiltering/img/compare_20clusters.jpg
+CollaborativeFiltering/img/compare_cluster_all_by_cluster.jpg
+CollaborativeFiltering/img/compare_true_cluster_all.jpg
+CollaborativeFiltering/img/stats_10clusters.jpg
+CollaborativeFiltering/img/stats_20clusters.jpg
+CollaborativeFiltering/img/stats_4clusters.jpg
+own algorithm/pourLeRapport.csv
+own algorithm/pourLeRapport.pdf
+own algorithm/test.csv
+own algorithm/img/find_K_own.jpg
